@@ -15,10 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="P:\Personal\Godot\Qodot\extras\graphics\qodot_logo.png"
-   inkscape:export-xdpi="90.873161"
-   inkscape:export-ydpi="90.873161"
-   sodipodi:docname="qodot_logo.svg">
+   inkscape:export-filename="P:\Personal\Godot\qodot-extras\graphics\qodot_logo_circle.png"
+   inkscape:export-xdpi="294.32336"
+   inkscape:export-ydpi="294.32336"
+   sodipodi:docname="qodot_logo_square.svg">
   <defs
      id="defs4">
     <marker
@@ -86,9 +86,10 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Layer 3">
+     inkscape:label="Layer 3"
+     style="display:none">
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       style="fill:#173041;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="rect859"
        width="334"
        height="334"
@@ -101,7 +102,7 @@
      inkscape:label="Layer 2"
      style="display:inline">
     <circle
-       style="display:inline;fill:#478cbf;fill-opacity:1;stroke:none;stroke-width:9.95529079;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       style="display:inline;fill:#173041;fill-opacity:1;stroke:none;stroke-width:9.95529079;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="path835"
        cx="167"
        cy="167"
@@ -114,7 +115,7 @@
      transform="translate(0,-718.3622)"
      style="display:inline">
     <g
-       transform="matrix(0.18679721,0,0,0.18679721,58.733204,733.97213)"
+       transform="matrix(0.1748717,0,0,0.1748717,65.610824,743.80016)"
        id="g8"
        style="fill:#478cbf;fill-opacity:1;stroke:#ffffff;stroke-width:81.63933563;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal">
       <path
